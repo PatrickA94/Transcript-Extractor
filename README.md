@@ -8,11 +8,10 @@ This python script gets the transcript from multiple youtube videos and puts the
 
 BeautifulSoup is requiered and so is lxml
 
-
-  
+```
   pip install beautifulsoup4
   pip install lxml
-
+```
 
 Need a text file containing the youtube video code
 https://www.youtube.com/watch?v=**O3xXAT-X_hQ**
