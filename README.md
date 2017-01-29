@@ -15,6 +15,9 @@ pip install lxml
 '''
 
 Need a text file containing the youtube video code
+
+youtube.com/watch?v='O3xXAT-X_hQ'
+
 https://www.youtube.com/watch?v='O3xXAT-X_hQ'
 
 
