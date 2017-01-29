@@ -13,7 +13,7 @@ BeautifulSoup is requiered and so is lxml
   pip install lxml
 ```
 
-Need a text file containing the youtube video code
+Need a text file containing the youtube video code.
 watch?v=**O3xXAT-X_hQ**
 The bold portion of the URL
 
