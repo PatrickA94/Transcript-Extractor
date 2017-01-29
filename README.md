@@ -11,4 +11,5 @@ BeautifulSoup is requiered and so is lxml
 
 '''
 pip install beautifulsoup4
-pip install lxml'''
+pip install lxml
+'''
